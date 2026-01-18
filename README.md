@@ -16,7 +16,7 @@ This HTTP client independence gives you:
 - **Easy testing** - Test request building and response parsing without network calls
 - **Portability** - Swap HTTP clients without changing your core logic
 
-This template includes working examples of GET and POST requests to JSONPlaceholder.
+This template includes example of GET request to JSONPlaceholder.
 
 ## Getting started
 
