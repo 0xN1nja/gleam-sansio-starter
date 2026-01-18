@@ -11,7 +11,7 @@ This template uses the sans-io approach, meaning your application code does not 
 
 This HTTP client independence gives you:
 
-- **Full control** - Choose any HTTP client (hackney, httpc, etc.)
+- **Full control** - Choose any HTTP client (httpc, hackney, etc.)
 - **Runtime flexibility** - Works on both Erlang and JavaScript runtimes
 - **Easy testing** - Test request building and response parsing without network calls
 - **Portability** - Swap HTTP clients without changing your core logic
