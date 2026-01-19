@@ -4,6 +4,7 @@ import gleam/option.{type Option, None, Some}
 import gleam/uri
 
 pub type AppError {
+  AuthenticationError(String)
   JsonParseError(String)
   UnexpectedResponseError(Response(String))
   UnexpectedError(String)
